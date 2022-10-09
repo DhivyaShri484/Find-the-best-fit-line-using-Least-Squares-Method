@@ -23,7 +23,6 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: B DHIVYA SHRI
 RegisterNumber:  212221230009
 */
-```
 
 import numpy as np
 import pandas as pd
@@ -97,7 +96,6 @@ print("For population of 70,000, we pewdict a profit of $ "+str(round(predict2,0
 ```
 
 ## Output:
-![best fit line](sam.png)
 <img width="940" alt="ML" src="https://user-images.githubusercontent.com/94505585/194759855-c38ae9ac-3ce5-4024-9619-5fddd21d240c.png">
 <img width="893" alt="2022-10-09 (6)" src="https://user-images.githubusercontent.com/94505585/194759883-be2dd70b-b90f-4197-a079-37a33e12dc7d.png">
 <img width="932" alt="2022-10-09 (7)" src="https://user-images.githubusercontent.com/94505585/194759906-2a6fb81c-adda-457a-bd9e-99a7590063a3.png">
